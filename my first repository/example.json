@@ -1,0 +1,20 @@
+{
+    "Name": "Igor",
+    "Phone": "+7928-267-45-12",
+    "Media": {
+        "VK": "vk.com/igor_dev",
+        "Youtube": "youtube.com/igor_dev/watch"
+    },
+    "Mass": [
+        1,
+        "b",
+        {
+            "b": 2
+        },
+        [
+            1,
+            2,
+            3
+        ]
+    ]
+}
